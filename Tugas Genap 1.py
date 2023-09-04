@@ -1,7 +1,7 @@
 # tugas genap pertama
 # rumus volume balok: V balok = p x l x t
-a = input("panjang :")
-b = input("lebar :")
-c = input("tinggi :")
-d = int(a) * int(b) * int(c)
-print("hasil dari volume balok tersebut : " + str(d))
+P = input("panjang :")
+L = input("lebar :")
+T = input("tinggi :")
+V = int(P) * int(L) * int(T)
+print("hasil dari volume balok tersebut : " + str(V))
