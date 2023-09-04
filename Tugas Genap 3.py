@@ -2,7 +2,7 @@
 # (di urutan 8) rumus luas bola = 4 x π x r²
 # (di urutan 9) rumus volume bola = 4/3 x π x r³
 
-r = int(input("Jari-jari Bola : "))
+r = int(input("jari jari Bola : "))
 π = 3.14
 
 luas = int(4 * π * (r * r))
